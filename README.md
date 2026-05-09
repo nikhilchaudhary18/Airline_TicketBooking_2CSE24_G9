@@ -8,8 +8,8 @@
 This project involves the design and implementation of an **Airline Ticket Booking System**. The system manages core airline operations, including passenger registration, flight scheduling, booking transactions, and payment tracking.
 
 ### Team Members:
-*   **Neeraj**
-*   **Nikhil**
+*   **Neeraj kumar**
+*   **Nikhil chandra chaudhary**
 *   **Nikhil Kumar**
 
 ---
